@@ -1,7 +1,7 @@
 return {
-	bot_api_key = '',
+	bot_api_key = '185472659:AAG6t9xUk-R3Om9hYk-56nb8pONJHZ92T9g',
 	time_offset = 0,
-	admin = 23646077,
+	admin = 184018132,
 	channel = '',
 	plugins = {
 		'onmessage.lua', --THIS HAVE TO BE THE FIRST: IF AN USER IS SPAMMING/IS BLOCKED, THE BOT WON'T GO THROUGH PLUGINS
